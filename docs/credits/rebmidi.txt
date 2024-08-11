@@ -1,0 +1,150 @@
+===========================================================================
+Archive Maintainer      : Please file to /music.
+Update to               : rebmidi.zip
+===========================================================================
+Title                   : Rebirth MIDI Pack
+Filename                : rebmidi.wad
+Release date            : 7 April 2020
+Author                  : Jimmy & various
+Email Address           : [redacted]
+Other Files By Author   : Jenesis, Jenocide DM, Jiffy Bag, Jimmy's Jukebox,
+                          Jungle Spirits, The Joy of Mapping, realms of Zoon,
+                          Deathless, Faithless, Team Rocket 1 & 2,
+                          Harmony/Plutonia/Revolution MIDI Packs.
+Misc. Author Info       : He are go good with pizza.
+
+Description             : Riding on the coat-tails of the last two community-
+                          made MIDI Packs, this project, like them, seeks for
+                          the community's finest musos to compose a megawad's
+                          worth of original MIDI music for 2003 megawad
+                          "Doom 2: The Rebirth" by Björn Ostmann, aka Vader.
+                          
+                          As "The Rebirth" already contains a select few new
+                          tracks of its own, this pack contains slightly fewer
+                          pieces than usual and is NOT a full replacement. It
+                          is, however, still a full resource of custom music
+                          for you to use in your own projects.
+                          
+Additional Credits to   : Every one of you who contributed. Great work,
+                          all! :D
+
+                          Vader for endorsement and feedback!
+===========================================================================
+* What is included *
+
+New levels              : No
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : rebmidi-np.wad is included for use with ZDoom-based
+                          ports; it simply prints the designated track name
+                          and author to the screen at the start of each map.
+                          Make sure to run it along with rebirth1.wad.
+                          
+Other files required    : Rebirth1.wad.
+Get "Doom 2: The Rebirth" here: https://www.doomworld.com/idgames/levels/doom2/megawads/rebirth
+
+
+* IMPORTANT!*
+
+Due to Rebirth1.wad containing its own selection of new music, please run the WADs in this order:
+
+  Rebirth1.wad rebmidi.wad rebmidi-np.wad*
+  (* if desired/using GZDoom)
+
+Or the full roster of custom tracks will not play.
+
+
+* Play Information *
+
+Game                    : Doom 2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Other game styles       : All
+Difficulty Settings     : N/A
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Development started on 1 February 2017.
+Editor(s) used          : Various MIDI sequencers
+May Not Run With...     : Vanilla doom.exe because the music in the WAD is
+                          .MID files, not .MUS files (although none of the
+                          files come close to the 96kb limit). Works best
+                          with PrBoom, MBF and ZDoom.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+It MIGHT be courteous of you to seek permission from any authors whose
+music featured in this that you may want to use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites: http://www.jamespaddockmusic.com/
+           http://jimmy.the-powerhouse.net/WAD/
+
+===========================================================================
+
+* Tracks *
+
+NOTES:
+Maps 3, 10, 12, 15 and 32 do not have replacement tracks.
+Those slots have been left clear to allow for the original tracks for these maps (composed by Vader) to play.
+
+Map 25 had a custom track shared with map 10, which was replaced with a new track to avoid duplication.
+Map 30 initially had a custom Vader track too, which ended up also being replaced in this roster.
+
+TITLE:                          -- "Entombed" [Jimmy]
+INTER:                          -- "Intermission" [Dial-up for Murder]
+VICTORY:                        -- "Ludum Suite Part V" [Eris Falling]
+MAP01: Operator                 -- "Ripsaw" [Jimmy]
+MAP02: Outer Base               -- "Viscera & Gravy" [BobFromReboot]
+MAP03: Paranoya                 -- Untitled track [Vader]
+MAP04: Sewage                   -- "Girders" [Jimmy]
+MAP05: The Complex              -- "A Snake In My Boot" [stewboy]
+MAP06: Colossus                 -- "Rising Colossus" [Viscra Maelstrom]
+MAP07: Cremation                -- "Shoot to be Violent" [8Bit Shocker]
+MAP08: Pump Station             -- "On Lockdown" [Jimmy]
+MAP09: The Depot                -- "Prowler" [Jimmy]
+MAP10: The Machine              -- Untitled track [Vader]
+MAP11: Teleport Center          -- "Ghosts in the Walls" [stewboy]
+MAP12: Home!?                   -- Untitled track [Vader]
+MAP13: Condemned Streets        -- "BFG District" [therektafire & Jimmy]
+MAP14: The Undertown            -- "Cave Dwellers" [Eris Falling]
+MAP15: Ugly Halls               -- Untitled track [Vader]
+MAP16: The Musty Ones           -- "Sludge" [Dial-up for Murder]
+MAP17: Xenophob                 -- "Junction" [Jimmy]
+MAP18: Death Pit                -- "Sombre Visions" [Eris Falling]
+MAP19: House of Pain            -- "Shadows" [Eris Falling]
+MAP20: The Gateway              -- "Sunfall Valley (Open Fire)" [Viscra Maelstrom]
+MAP21: River of Flames          -- "A Warrior Reborn" [Eris Falling]
+MAP22: Withered Fields          -- "Mars Monolith" [Dial-up for Murder]
+MAP23: Dark Arena               -- "Freedom is So Below" [Viscra Maelstrom]
+MAP24: Hall of Despair          -- "Mystified" [Eris Falling]
+MAP25: The Tower*               -- "Nether (With You)" [Viscra Maelstrom]
+MAP26: Burning Canals           -- "Seething Hatred" [Viscra Maelstrom]
+MAP27: Wired Hive               -- "Devil's Hive" [Jimmy]
+MAP28: Netherworld              -- "Wretched Abyss" [Viscra Maelstrom]
+MAP29: The Abyss                -- "Thanatos" [Eris Falling]
+MAP30: Hell's Innards           -- "Underlord" [Jimmy]
+MAP31: Snowed-In Mansion        -- "What Could Have Been" [Viscra Maelstrom]
+MAP32: Zoo                      -- Untitled track [Vader]
+
+===========================================================================
+
+Thanks to everyone on Doomworld who helped make this music pack possible!

@@ -1,0 +1,20 @@
+; SPDX-License-Identifier: BSD-3-Clause
+
+; Lastermaul MAPINFO
+; Uses old Hexen format for compatibility
+
+map 1 "DEMO MAP"
+warptrans 1
+next 2
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+lightning
+
+map 11 "ICE PRISON"
+warptrans 11
+next 12
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+lightning

@@ -1,0 +1,126 @@
+; SPDX-License-Identifier: BSD-3-Clause
+
+; Lastermaul ANIMDEFS
+; Flat and texture animation definitions
+
+; Hexen animations, included for compatibility purposes
+
+flat x_001
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+
+flat x_005
+
+pic 1 rand 5 12
+pic 2 rand 5 12
+pic 3 rand 5 12
+pic 4 rand 5 12
+
+flat x_009
+
+pic 1 rand 3 10
+pic 2 rand 3 10
+pic 3 rand 3 10
+pic 2 rand 3 10
+
+texture tport1
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+pic 5 tics 5
+pic 6 tics 5
+pic 7 tics 5
+pic 8 tics 5
+pic 9 tics 5
+
+texture x_water1
+
+pic 1 rand 5 12
+pic 2 rand 5 12
+pic 3 rand 5 12
+pic 4 rand 5 12
+
+texture x_swmp1
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+
+texture x_fire01
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+
+texture x_swr1
+
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+
+
+texture x_fac01
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+pic 3 tics 5
+pic 2 tics 5
+
+flat x_012
+pic 1 rand 4 6
+pic 2 rand 4 6
+pic 3 rand 4 6
+pic 4 rand 4 6
+pic 5 rand 4 6
+
+texture x_fac09
+pic 1 tics 5
+pic 2 tics 5
+pic 3 tics 5
+pic 4 tics 5
+
+texture gear0A
+pic 1 tics 12
+pic 2 tics 12
+
+texture gear02
+pic 1 tics 6
+pic 2 tics 6
+pic 3 tics 6
+pic 4 tics 6
+
+texture clock01
+pic 1 tics 160
+pic 2 tics 160
+pic 3 tics 160
+pic 4 tics 160
+pic 5 tics 160
+pic 6 tics 160
+pic 7 tics 160
+pic 8 tics 160
+
+texture clock11
+pic 1 tics 20
+pic 2 tics 20
+pic 3 tics 20
+pic 4 tics 20
+pic 5 tics 20
+pic 6 tics 20
+pic 7 tics 20
+pic 8 tics 20
+
+flat f_084
+pic 1 rand 4 6
+pic 2 rand 4 6
+pic 3 rand 4 6
+pic 4 rand 4 6
+pic 5 rand 4 6
+
+; Lastermaul extra animations

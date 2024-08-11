@@ -1,0 +1,108 @@
+===========================================================================
+Advanced engine needed  : GZDoom 4.3
+Primary purpose         : Single Player
+===========================================================================
+Title                   : Realms of Cronos
+Filename                : roc.pk3
+Release date            : 2020-09-16; updated on 2021-01-17
+Author                  : Realms Team
+Email Address           : whirls98@gmail.com
+Other Files By Author   : N/A
+Misc. Author Info	: N/A
+Description             : Realms Of Cronos is a community hub for Hexen designed for GZDoom. It includes extra textures, decorations, and monsters. Your journey begins in the sprawling ruins of K'char. Once a bustling city, it contains many portals to important destinations on Cronos. Previously forgotten and locked away, they've suddenly become all-too active with traffic from evil undead creatures. Nine different ambassadors have sent reported monsters invading from the old portals. There are even rumors that an entire ebony fortress has risen from the sea nearby. As the most powerful mercenary of the Arcanum, Legion, or Church, you've been handed a one-way ticket to the ruins and must seek out the root of the invasion.
+Additional Credits to   : The developers of all tools used; Authors of additional textures & sprites used (detailed credits inside pk3)
+===========================================================================
+* What is included *
+
+New levels              : 10
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : No
+
+* Play Information *
+
+Game                    : Hexen
+Map #                   : Map01-Map11
+Single Player           : Designed for
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 10 months
+Editor(s) used          : Ultimate Doom Builder, Slade
+Known Bugs              : None
+May Not Run With        : anything not GZDoom
+Tested With             : GZDoom [4.3]
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse. Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.
+
+===========================================================================
+* ROC Team *
+
+ArgonianLord: mapper
+Dynamite Kaitorn: mapper
+Gokuma: mapper
+Lippeth: MIDI composer, extra sound effects
+mty: mapper
+Neoworm: sprite/texture artist
+Razumen: mapper
+Shadesmaster: mapper
+whirledtsar: organizer, mapper
+
+* Maps *
+
+	Ruins of Kchar (hub)
+Author: whirledtsar
+Music: Seasons Of Despair and Summoner Of Chaos by Lippeth
+
+	The Alchemist's Castle
+Author: ArgonianLord
+Music: casa4 from Hexen 2
+
+	Castle Klattacus 2.0
+Author: Dynamite Kaitorn
+Music: Sepulchral Kings by Lippeth
+
+	Fire Temple
+Author: Shadesmaster
+Music: Seething Ichor by Lippeth
+
+	Path of Hei'an
+Author: mty
+Music: Snake In The Grass by Lippeth
+
+	Sunken Village
+Author: Shadesmaster
+Music: Sunken Village by Lippeth
+
+	Guillotine of the Gods
+Author: Gokuma
+Music: Stigmatic Pantheon by Lippeth
+
+	Arcanum Labs
+Author: whirledtsar
+Music: Shattered Decanter by Lippeth
+
+	The City of Metzlicasa
+Author: ArgonianLord
+Music: meso3 from Hexen 2
+
+	Felstoy Abbey
+Author: Razumen
+Music: Spoils Of War by Lippeth

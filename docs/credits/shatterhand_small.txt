@@ -1,0 +1,23 @@
+Author		: Brett "Mechadon" Harrell
+Email		: mekaddonn@gmail.com
+Website		: http://mekworx.the-powerhouse.net
+
+Font Name	: Shatterhand
+Font Size	: Smallfont
+Base		: From scratch
+Information	: This is a custom font I made for Snake's megawad called
+			  "Unholy Realms".  The font was made to be a sort of heavy
+			  metal gothic style, somewhat inspired by the Unreal Tournament
+			  logo font.
+			  
+			  Becauase of its highly stylized design, it can be a bit funky
+			  to read.
+
+
+* Copyright / Permissions *
+
+You may use or modify this font any way you see fit for any reason as long as proper credit is given.
+
+* Where to get the file that this text file describes *
+
+http://mekworx.the-powerhouse.net

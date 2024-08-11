@@ -1,0 +1,419 @@
+; SPDX-License-Identifier: BSD-3-Clause
+
+; Lastermaul SNDINFO
+; Copy-pasted entirely from original Hexen for compatibility purposes
+
+$ARCHIVEPATH            o:\sound\archive\
+
+;===========================================================================
+;
+; PLAYER SOUNDS
+;
+;===========================================================================
+
+PlayerFighterNormalDeath        fgtddth
+PlayerFighterCrazyDeath         fgtcdth
+PlayerFighterExtreme1Death      fgtxdth1
+PlayerFighterExtreme2Death      fgtxdth2
+PlayerFighterExtreme3Death      fgtxdth3
+
+PlayerClericNormalDeath         plrdth
+PlayerClericCrazyDeath          plrcdth
+PlayerClericExtreme1Death       clxdth1
+PlayerClericExtreme2Death       clxdth2
+PlayerClericExtreme3Death       clxdth3
+
+PlayerMageNormalDeath           mgdth
+PlayerMageCrazyDeath            mgcdth
+PlayerMageExtreme1Death         mgxdth1
+PlayerMageExtreme2Death         mgxdth2
+PlayerMageExtreme3Death         mgxdth3
+
+PlayerFighterPain               fgtpain
+PlayerClericPain                plrpain3
+PlayerMagePain                  mgpain
+
+PlayerFighterGrunt              fgtgrunt
+PlayerClericGrunt               grunt1
+PlayerMageGrunt                 mggrunt
+
+PlayerLand                      feet4
+PlayerPoisonCough               pois2
+
+PlayerFighterFallingScream      fgtfall
+PlayerClericFallingScream       fall1
+PlayerMageFallingScream         mgfall
+
+PlayerFallingSplat              fallhit
+
+PlayerFighterBurnDeath          plrburn
+PlayerClericBurnDeath           plrburn
+PlayerMageBurnDeath             plrburn
+
+PlayerFighterFailedUse          fgtgrunt
+PlayerClericFailedUse           grunt1
+PlayerMageFailedUse             mggrunt
+
+;
+; Fighter
+;
+
+FighterPunchMiss        punchmis
+FighterPunchHitWall     punch8
+FighterPunchHitThing    mumpun5
+FighterAxeHitThing      axe5
+FighterHammerMiss       hammis2
+FighterHammerHitWall    hamwal1
+FighterHammerHitThing   hmhit1a
+FighterHammerContinuous hamfly1
+FighterHammerExplode    impact3
+FighterSwordFire        sword2
+FighterSwordExplode     impact3
+FighterGrunt            gntmis1
+
+; Cleric
+
+ClericCStaffFire        spell1
+ClericCStaffExplode     glbhit4
+ClericCStaffHitThing    vamp5
+ClericFlameFire         strike3
+ClericFlameExplode      strike1
+ClericFlameCircle       firedhit
+HolySymbolFire          holy3
+SpiritActive            spirt7
+SpiritAttack            spirt5
+SpiritDie               spirts1
+
+;
+; Mage
+;
+
+MageWandFire            wand4
+MageLightningFire       lite2
+MageLightningContinuous gntpow
+MageLightningReady      wepele2
+MageLightningZap        gntact1
+MageShardsFire          cone3
+MageShardsExplode       shards1b
+MageStaffFire           mage4
+MageStaffExplode        mageball
+
+; Pig
+
+PigActive1              pigrunt1
+PigActive2              squeal1
+PigPain                 pigpain2
+PigAttack               bite4
+PigDeath                pigdth2
+
+;===========================================================================
+;
+; MONSTER SOUNDS
+;
+;===========================================================================
+
+; Bishop
+
+BishopSight             syab2d
+BishopActive            stb1d
+BishopPain              bshpn1
+BishopAttack            pop
+BishopDeath             bishdth1
+BishopMissileExplode    bshhit2
+BishopBlur              blur6
+
+; Centaur
+
+CentaurSight            taur1
+CentaurActive           taur2
+CentaurPain             taur4
+CentaurAttack           centhit2
+CentaurDeath            taurdth1
+CentaurLeaderAttack     cntshld4
+CentaurMissileExplode   impact3
+
+; Serpent
+
+SerpentSight            wtrcrt7
+SerpentActive           srfc3
+SerpentPain             serppn1
+SerpentAttack           wtrswip
+SerpentMeleeHit         wtrhit
+SerpentDeath            srpdth1
+SerpentBirth            srfc1
+SerpentFXContinuous     glbhiss1
+SerpentFXHit            glbhit4
+
+; Demon
+
+DemonSight              sbtsit5
+DemonActive             sbtact1
+DemonPain               sbtpain1
+DemonAttack             dematk2
+DemonDeath              sbtdth3
+DemonMissileFire        impfire2
+DemonMissileExplode     impact3
+
+; Wraith
+
+WraithSight             raith5a
+WraithActive            raith3
+WraithPain              raith4a
+WraithAttack            raith1b
+WraithDeath             rathdth2
+WraithMissileFire       impfire2
+WraithMissileExplode    impact3
+
+; Maulator
+MaulatorSight           minsit1
+MaulatorActive          minact2
+MaulatorPain            minpain4
+MaulatorHamSwing        hamblo8a
+MaulatorHamHit          hamfir1
+MaulatorMissileHit      impact3
+MaulatorDeath           mindth4
+
+; Ettin
+EttinSight              cent2
+EttinActive             cent2
+EttinPain               cent1
+EttinAttack             ethit1
+EttinDeath              cntdth1
+
+; Fire Demon
+FireDemonSpawn          spawn3
+FireDemonActive         fired5
+FireDemonPain           fired2
+FireDemonAttack         spit6
+FireDemonMissileHit     firedhit
+FireDemonDeath          fired3
+
+; Ice Guy
+IceGuySight             frosty1
+IceGuyActive            frosty3
+IceGuyAttack            frosty2
+IceGuyMissileExplode    shards1b
+
+; Sorcerer Boss
+SorcererSight           sorboss1
+SorcererActive          sorboss2
+SorcererPain            sorboss3
+SorcererSpellCast       woosh3
+SorcererBallWoosh       balls1
+SorcererDeathScream     sordie2
+SorcererBishopSpawn     bishapp
+SorcererBallPop         cork
+SorcererBallBounce      bounce2
+SorcererBallExplode     impact3
+SorcererBigBallExplode  sorblexp
+SorcererHeadScream      sorblexp
+
+; Dragon
+DragonSight             dragsit1
+DragonActive            dragsit1
+DragonWingflap          wing1
+DragonAttack            mage4
+DragonPain              dragpn2
+DragonDeath             dragdie2
+DragonFireballExplode   mageball
+
+; Korax
+KoraxSight              korsit
+KoraxActive             koract
+KoraxPain               korpn1
+KoraxAttack             koratk
+KoraxCommand            korcom
+KoraxDeath              kordth1
+KoraxStep               step
+
+; Korax Voice sounds
+KoraxVoiceGreetings     grtngs1
+KoraxVoiceReady         ready1
+KoraxVoiceBlood         blood1
+KoraxVoiceGame          game1
+KoraxVoiceBoard         board1
+KoraxVoiceWorship       wrship1
+KoraxVoiceMaybe         maybe1
+KoraxVoiceStrong        strong1
+KoraxVoiceFace          face1
+
+; Alternate monster pain sound (in gas cloud, lightning zapped, wraithverged)
+PuppyBeat               pup4
+
+;===========================================================================
+;
+; WORLD SOUNDS
+;
+;===========================================================================
+
+;
+;
+; Platform Sounds
+;
+
+PlatformStart           dorstp3
+PlatformStartMetal      mtlstrt1
+PlatformStop            dorstp1b
+StoneMove               stnmv4
+MetalMove               mtlmv3
+
+;
+; Door Sounds
+;
+
+DoorOpen                drltch3a
+DoorLocked              locked
+
+DoorOpenMetal           stmdr1
+DoorCloseMetal          drstp2
+DoorCloseLight          dorstp4
+DoorCloseHeavy          drstp7
+DoorCreak               drcrk5a
+
+LavaMove                lava2
+WaterMove               brook1
+IceStartMove            icemv2
+EarthStartMove          quake2
+
+;===========================================================================
+;
+; MISCELLANEOUS SOUNDS
+;
+;===========================================================================
+
+PickupWeapon            sample11
+PickupArtifact          art1
+PickupKey               keys2a
+PickupItem              picup5
+PickupPiece             piece1               ; Pickup part of the final weapon
+WeaponBuild             sample11               ; Built the final weapon
+UseArtifact             artact1
+Respawn                 respawn
+PuzzleFailFighter       fgthmm
+PuzzleFailCleric        clhmm
+PuzzleFailMage          mghmm
+PuzzleSuccess           puzslv
+Chat                    chat3
+BatScream               bats
+ClockTick               tictoc
+EtherealTeleport	ethport1
+MysticIncant		puzslv		; attached to each player affected
+
+Switch1                 chnswch8
+Switch2                 swtch6
+SwitchOtherLevel        puzslv1
+ValveTurn               swtchv4
+RopePull                swtchrp1
+
+BlastRadius             blastr
+FlyBuzz                 fly3
+Earthquake              quake2
+
+BellRing                bellrng
+TreeBreak               treebrk
+TreeExplode             treeburn
+SuitofArmorBreak        armorexp
+PoisonShroomPain        stretch3
+PoisonShroomDeath       puff1
+
+Ignite                  torch2
+Fireball                impact3               ; generic fireball projectile
+
+GlassShatter            glass5
+FlechetteBounce         flech4
+FlechetteExplode        firedhit
+
+ThunderCrash            thndr1
+Teleport                tport1
+PotteryExplode          potbrk1
+Drip                    blddrp1
+Wind                    wind3
+ThrustSpikeRaise        spike3
+ThrustSpikeLower        spike2
+
+FreezeDeath             icedth1
+FreezeShatter           icebrk1a
+
+WaterSplash             gloop1
+LavaSizzle              acid5
+SludgeGloop             muck5
+StartupTick             tick
+
+; Ambient sounds
+
+Ambient1                insects1
+Ambient2                crkets
+Ambient3                crkets1
+Ambient4                katydid
+Ambient5                frogs
+Ambient6                owl
+Ambient7                bird
+Ambient8                shlurp
+Ambient9                bubble
+Ambient10               drop2
+Ambient11               rocks
+Ambient12               chains
+Ambient13               gong
+Ambient14               steel1
+Ambient15               steel2
+
+;===========================================================================
+;
+; MAP SONG DEFINITIONS
+;
+;===========================================================================
+
+$MAP    1               Winnowr
+$MAP    2               Jachr
+$MAP    3               Simonr
+$MAP    4               Wutzitr
+$MAP    5               Falconr
+$MAP    6               Levelr
+$MAP    7               Chartr
+$MAP    8               Swampr
+$MAP    9               Deepr
+$MAP    10              Fubasr
+$MAP    11              Grover
+$MAP    12              Fortr
+
+$MAP    21              Foojar
+$MAP    22              Sixater
+$MAP    23              Wobabyr
+$MAP    24              Cryptr
+$MAP    25              Fantar
+$MAP    26              Blechr
+$MAP    27              Voidr
+$MAP    28              Chap_1r
+$MAP    29              Chap_2r
+$MAP    30              Chap_3r
+$MAP    31              Chap_4r
+$MAP    32              Chippyr
+$MAP    33              Percr
+$MAP    34              Secretr
+$MAP    35              Bonesr
+$MAP    36              Octor
+$MAP    37              Rithmr
+$MAP    38              Stalkr
+$MAP    39              Borkr
+$MAP    40              Crucibr
+
+$MAP    13              cryptr
+$MAP    14              swampr
+
+$MAP    0               hexen
+$MAP    0               hub
+$MAP    0               hall
+$MAP    0               orb
+$MAP    0               chess
+
+$REGISTERED
+
+
+
+
+
+
+
+
+
+

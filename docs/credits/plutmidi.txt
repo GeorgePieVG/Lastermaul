@@ -1,0 +1,123 @@
+===========================================================================
+Title                   : Plutonia MIDI Pack
+Filename                : plutmidi.wad
+Release date            : 30 September 2013
+Author                  : Jimmy & various
+Email Address           : jamespaddock@hotmail.com
+Other Files By Author   : Jenesis, Jenocide DM, Harmony MIDI Pack
+Misc. Author Info       : Hobbies include watching grass dry and paint grow.
+
+Description             : One thing that separates the two halves of Final
+                          Doom is that TeamTNT composed many original
+                          tracks for Evilution, and I think that this added
+                          greatly to its originality and charm, even if
+                          some of the MIDIs were really short and/or just
+                          not that great. So, what if Dario and Milo Casali
+                          were musicians themselves, or what if they had
+                          other musicians - perhaps even TNT's music team,
+                          or even Bobby Prince himself - on board with the
+                          project to provide an original soundtrack to the
+                          maps of the Plutonia Experiment?
+                          
+                          This project is the Doomworld community's answer
+                          to that.
+						  
+Additional Credits to   : Every one of you who contributed. Great work,
+                          everyone! :D
+===========================================================================
+* What is included *
+
+New levels              : No
+Sounds                  : No
+Music                   : Yes
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : A ZDoom LOADACS lump in plutmidi-np.wad - Run
+                          this wad and plutmidi.wad with ZDoom to show the
+                          names of the tracks at the start of each map.
+Other files required    : No
+
+
+* Play Information *
+
+Game                    : Doom 2 - The Plutonia Experiment
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Other game styles       : N/A
+Difficulty Settings     : N/A
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Development started on 13 March 2013.
+Editor(s) used          : Various
+May Not Run With...     : Vanilla doom.exe because the music in the WAD is
+                          .MID files, not .MUS files (although none of the
+                          files come close to the 96kb limit). Works best
+                          with PrBoom, MBF and ZDoom.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+It MIGHT be courteous of you to seek permission from any authors whose
+music featured in this you may want to use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites: http://www.jamespaddockmusic.com
+           http://www.doomworld.com/idgames
+
+===========================================================================
+
+* Tracks *
+
+  MAP01: "Death Mask" by Lippeth
+  MAP02: "Trigger" by Mr. Freeze & Bucket
+  MAP03: "Jade Empire" by stewboy
+  MAP04: "Claustrophobia" by ClumsyDoomer
+  MAP05: "Sepulchral" by Hellish Godzilla
+  MAP06: "Plusfort" by Bucket
+  MAP07: "Seasons of Insanity" by Jimmy
+  MAP08: "Tower of Fire" by Jimmy
+  MAP09: "Plutocrat" by Bucket
+  MAP10: "Denied" by Doomkid92
+  MAP11: "Always Watching" by Lippeth
+  MAP12: "Blood Rush" by Eris Falling
+  MAP13: "Untitled" by Mr. Freeze
+  MAP14: "Plugged In" by Bucket
+  MAP15: "Plummeting" by Bucket
+  MAP16: "Run 'Em, Gun 'Em, Kill 'Em" by Jimmy
+  MAP17: "Massacre Machine" by Lippeth
+  MAP18: "Fire Hive" by Jimmy
+  MAP19: "Lost In Place" by Lippeth
+  MAP20: "Death's Toll" by stewboy
+  MAP21: "Ascension of Satan" by Doomhuntress
+  MAP22: "Stealth Mode" by Jimmy
+  MAP23: "Plug Ugly" by Bucket
+  MAP24: "Pluvious" by Bucket
+  MAP25: "Contemplate" by Hellish Godzilla
+  MAP26: "HOSILFU" by yakfak
+  MAP27: "Infimum" by Ribbiks
+  MAP28: "Dead Plumber's Song" by ClumsyDoomer
+  MAP29: "The Scarlet Citadel" by Hellish Godzilla
+  MAP30: "Plurry" by Bucket
+  MAP31: "Cry of Desperation" by Eris Falling
+  MAP32: "Plunge Saw" by Bucket
+
+===========================================================================
+
+Thanks to everyone on Doomworld who helped make this WAD possible.
+You guys rock. :D My first released community project, too!

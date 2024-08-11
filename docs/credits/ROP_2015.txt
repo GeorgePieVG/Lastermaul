@@ -1,0 +1,127 @@
+===========================================================================
+Archive Maintainer      : (special instructions if any)
+Update to               : (original filename if updating an existing file)
+Advanced engine needed  : Recommended
+Primary purpose         : Single play
+===========================================================================
+Title                   : The Realm of Parthoris - 2015
+Filename                : ROP_2015.WAD
+Release date            : 11/26/2015
+Author                  : Various Authors
+Email Address           : jeffking206@gmail.com (project leader)
+Other Files By Author   : HYMN.WAD (2013)
+Misc. Author Info       : N/A
+
+Description             : Welcome to The Realm of Parthoris, the fantasy world in which Heretic takes place. This project aims to create a community based Heretic episode by the end of 2015. A texture pack of 500 textures and flats has been carefully compiled to compliment and expand upon Heretic’s fantasy setting.
+Additional Credits to   :
+
+			==Levels==
+
+			E1M1: Cragskull by The Cupboard
+			E1M2: The Magistrates Tomb by General Rainbow Bacon
+			E1M3: The Reservoir by Obsidian
+			E1M4: Fossilized by The Cupboard
+			E1M5: Blistering Catacombs by Egregor			
+			E1M6: Grimoire Haeresis by SYS
+			E1M7: Arcane Corridor by Du Mhan Yhu
+			E1M8: Profanum Sanctum by 19Wraith
+			E1M9: Nightstone Hollow by Obsidian
+
+			E2M1: System Shutdown by General Rainbow Bacon
+
+
+			==Music==
+
+			The Realm of Parthoris (title): Alfonzo
+
+			E1M1: Plasma by Ilkallio
+			E1M2: The Avenger's Domain by Doom Huntress
+			E1M3: Gutter Penny by Alfonzo
+			E1M4: Skeleton by Ilkallio			
+			E1M5: The Occultist by Eris Falling
+			E1M6: Saboteur by Alfonzo
+			E1M7: Mystic Tides by Alfonzo
+			E1M8: Crystal Embers by Doom Huntress
+			E1M9: Plasma by Lee Jackson
+
+			E2M1: Oracle Night by Alfonzo
+			
+
+			Project Leader:
+				Egregor
+
+			
+			Texture and sprite support:
+				scifista42
+				Vermil
+				Xaser
+
+			Title Picture:
+				Voltcom9
+			
+			Credit Picture:
+				Gez
+			
+			Texture and sprite credits:
+				Baker's Legacy
+				Blasphemer
+				Blood
+				Gothic
+				Heretic community chest (skies)
+				Hexen
+				various zdoom.org community resources
+				
+===========================================================================
+* What is included *
+
+New levels              : 10
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : Yes: sprites, mapinfo, boom animated
+
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Heretic
+Map #                   : E1M1-E2M1
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : N/A
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 10 months 
+Editor(s) used          : Doom Builder 2, Slade 3
+Known Bugs              : none
+May Not Run With        : N/A
+Tested With             : zdoom
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
