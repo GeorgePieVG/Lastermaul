@@ -1,0 +1,5 @@
+; List of textures in the TEXTURE2 lump from hexen.wad (1.1).
+; This is included as fair use for purposes of compatibility
+; and interoperability.
+
+POOT

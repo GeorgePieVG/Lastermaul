@@ -1,0 +1,6 @@
+;Format of textures:
+;TextureName	Width	Height
+;*	PatchName	Xoffset	Yoffset
+POOT        		64	64
+*	W_240       	0	0
+;End
