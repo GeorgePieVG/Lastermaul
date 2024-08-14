@@ -112,7 +112,7 @@ TEXTURE2
 [sounds]
 DEFAULT		ARTIUP   ; Jute Gyte
 BLANK		SWITCH ; Jute Gyte
-FGTDDTH	IMPDTH   ; SuperSomariDX
+FGTDDTH	IMPDTH   ; SuperSomariDX ; All FGT* and pois2 sounds from LibreQuake attic
 FGTCDTH	IMPDTH   ; SuperSomariDX
 FGTXDTH1	IMPDTH   ; SuperSomariDX
 FGTXDTH2	IMPDTH   ; SuperSomariDX
