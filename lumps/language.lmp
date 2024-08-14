@@ -1,0 +1,163 @@
+[enu default]
+
+SECRETMESSAGE = "A terrible secret has been discovered...";
+
+// Obituaries
+// WIP
+
+// Item tags: Hexen weapons
+TAG_CWEAPMACE = "Mace";
+TAG_CWEAPSTAFF = "Bloodleech";
+TAG_CWEAPFLAME = "Hazebone";
+TAG_CWEAPWRAITHVERGE = "Spiritridge";
+TAG_FWEAPFIST = "Fists";
+TAG_FWEAPAXE = "Vorpal Sword";
+TAG_FWEAPHAMMER = "Hammer";
+TAG_FWEAPQUIETUS = "Vanguard of the Gods";
+TAG_MWEAPWAND = "Elder Wand";
+TAG_MWEAPFROST = "Gorgon's Head";
+TAG_MWEAPLIGHTNING = "Skull of the Archmage";
+TAG_MWEAPBLOODSCOURGE = "Superscepter";
+
+// Item tags: Hexen artifacts
+// WIP
+
+// Item tags: Hexen puzzle items
+// WIP
+
+// Artifacts shared with Blasphemer
+
+TXT_ITEMHEALTH = "Healing Phial";
+TXT_ARTIHEALTH = "Healing Elixir";
+TXT_ARTIFLY = "Wings of the Fallen";
+TXT_ARTIEGG = "Cursing Amulet";
+TXT_ARTISUPERHEALTH = "Grail of Lifeblood";
+TXT_ARTITORCH = "Explorer's Lantern";
+TXT_ARTITELEPORT = "Mirrorgate";
+
+RAVENQUITMSG = "You're leaving already?";
+
+// Hexen strings
+
+// Mana
+
+TXT_MANA_1 = "Mana of Creation";
+TXT_MANA_2 = "Mana of Destruction";
+TXT_MANA_BOTH = "Mana of Synergy";
+
+// Keys
+// WIP
+
+// Artifacts
+
+TXT_ARTIINVULNERABILITY2 = "Titan's Heart";
+TXT_ARTISUMMON = "Eye of the Ogre";
+TXT_ARTIEGG2 = "Jinxmorpher";
+TXT_ARTIPOISONBAG = "Jarate";
+TXT_ARTITELEPORTOTHER = "Oblivion Rift";
+TXT_ARTISPEED = "Quickwalker";
+TXT_ARTIBOOSTMANA = "Chalice of Aether";
+TXT_ARTIBOOSTARMOR = "Prisoner's Shackles";
+TXT_ARTIBLASTRADIUS = "Spell of Repulsion";
+TXT_ARTIHEALINGRADIUS = "Grail of Lifeblood";
+
+// Puzzle artifacts
+
+TXT_ARTIPUZZSKULL = "Skull Sculpture";
+TXT_ARTIPUZZGEMBIG = "Gyte's Head";
+TXT_ARTIPUZZGEMRED = "Ruby Gem";
+TXT_ARTIPUZZGEMGREEN1 = "Emerald Gem 1";
+TXT_ARTIPUZZGEMGREEN2 = "Emerald Gem 2";
+TXT_ARTIPUZZGEMBLUE1 = "Sapphire Gem 1";
+TXT_ARTIPUZZGEMBLUE2 = "Sapphire Gem 2";
+TXT_ARTIPUZZBOOK1 = "Black Grimoire Vol.2";
+TXT_ARTIPUZZBOOK2 = "Hereticon";
+TXT_ARTIPUZZSKULL2 = "Totem of Raven";
+TXT_ARTIPUZZFWEAPON = "Conqueror's Key";
+TXT_ARTIPUZZCWEAPON = "Worshipper's Key";
+TXT_ARTIPUZZMWEAPON = "Blasphemer's Key";
+TXT_ARTIPUZZGEAR = "Gear";
+TXT_USEPUZZLEFAILED = "Uh-uh, not here";
+
+// Items
+
+TXT_ARMOR1 = "Armor of Conquest";
+TXT_ARMOR2 = "Shield of Service";
+TXT_ARMOR3 = "Helmet of the Doomed";
+TXT_ARMOR4 = "Blasphemy Charm";
+
+// Weapons
+
+TXT_WEAPON_F2 = "Vorpal Sword";
+TXT_WEAPON_F3 = "HAMMER";
+TXT_WEAPON_F4 = "Vanguard Unleashed";
+TXT_WEAPON_C2 = "Bloodleech";
+TXT_WEAPON_C3 = "Hazebone";
+TXT_WEAPON_C4 = "Spiritridge Unleashed";
+TXT_WEAPON_M2 = "Gorgon's Head";
+TXT_WEAPON_M3 = "Skull of the Archmage";
+TXT_WEAPON_M4 = "Superscepter Unleashed";
+TXT_WEAPONPIECE = "A weapon piece! This is your lucky day! :)";
+TXT_QUIETUS_PIECE = "Segment of Vanguard";
+TXT_WRAITHVERGE_PIECE = "Segment of Spiritridge";
+TXT_BLOODSCOURGE_PIECE = "Segment of Superscepter";
+
+// Friendly names
+
+FN_FIREDEMON = "Ravon";
+FN_DEMON1 = "Saurian";
+FN_ETTIN = "Sluagh";
+FN_CENTAUR = "Servant of Chthon";
+FN_SLAUGHTAUR = "Servant of Cthulhu";
+FN_BISHOP = "Grell";
+FN_ICEGUY = "Gorgon";
+FN_SERPENT = "Goon";
+FN_WRAITH = "Wraith";
+FN_DRAGON = "Fallen";
+FN_KORAX = "The Boss";
+FN_FBOSS = "Conqueror";
+FN_MBOSS = "Worshipper";
+FN_CBOSS = "Blasphemer";
+FN_HERESIARCH = "Bosheit";
+
+AMMO_MANA1			= "Mana of Creation";
+AMMO_MANA2			= "Mana of Destruction";
+
+// Menu Strings
+
+// Main Menu
+
+// Skills
+MNU_CHOOSESKILL		= "Difficulty of your trial:";
+
+MNU_WETNURSE = "Whimpering Craven";
+MNU_YELLOWBELLIES = "Still a Novice";
+MNU_BRINGEST = "Hardened Warrior";
+MNU_SMITE = "Grim and Morbid";
+MNU_BLACKPLAGUE = "Death's Right Hand";
+
+MNU_SQUIRE			= "Brawler";
+MNU_KNIGHT			= "Fighter";
+MNU_WARRIOR			= "Warlord";
+MNU_BERSERKER		= "Overlord";
+MNU_TITAN			= "Slayer";
+
+MNU_ALTARBOY		= "Fanatic";
+MNU_ACOLYTE			= "Servant";
+MNU_PRIEST			= "Cleric";
+MNU_CARDINAL		= "Bishop";
+MNU_POPE			= "Dark Prince";
+
+MNU_APPRENTICE		= "Trickster";
+MNU_ENCHANTER		= "Mage";
+MNU_SORCERER        = "Witcher";
+MNU_WARLOCK			= "Magister";
+MNU_ARCHMAGE		= "Godmaster";
+
+// Classes
+MNU_CHOOSECLASS		= "Choose your doom:";
+MNU_FIGHTER			= "Conqueror";
+MNU_CLERIC			= "Worshipper";
+MNU_MAGE			= "Blasphemer";
+MNU_RANDOM			= "Whatever";
+
