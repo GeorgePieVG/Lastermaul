@@ -10,13 +10,6 @@ At the moment, Lastermaul is at a very early stage of development. Any help is w
 
 Any limit-removing _Doom_ source port that is compatible with _Hexen_ can be used to play Lastermaul. Lastermaul is an iwad, meaning the complete set of resources required for a game but still requires an executable engine to be played. You can turn your favorite _Hexen_ pwads into Lovecraftian nightmares using Lastermaul.
 
-Make sure to use 
-[source,bash]
------------------
--hexen
------------------
-with dsda-doom.
-
 == What “free” means
 
 When we speak of free content or software, we refer to the movement in
@@ -47,7 +40,7 @@ Please follow these guidelines when contributing to the project.
 
 ==== The Most Important Thing
 
-This is an open content project, and as such, must adhere to strict licensing rules.  Content that you submit must be compatible with the https://opensource.org/license/bsd-3-clause[revised BSD license].  DO NOT submit material from random websites; much "free" content on the web is still under copyright to someone and cannot be included.  You may suggest material from http://OpenGameArt.org[OpenGameArt] if it fits the criteria below.
+This is an free/libre content project, and as such, must adhere to strict licensing rules.  Content that you submit must be compatible with the https://opensource.org/license/bsd-3-clause[revised BSD license].  DO NOT submit material from random websites; much "free" content on the web is still under copyright to someone and cannot be included.  You may suggest material from http://OpenGameArt.org[OpenGameArt] if it fits the criteria below.
 
   * Public Domain material is allowed, ONLY if it is unambiguously Public Domain.  Beware of sites which claim their material is "public domain" while admitting that the sources are unknown: in all likelihood they are in fact copyrighted to someone and may NOT be used.
   * CC0 licensed material is allowed.
@@ -60,8 +53,8 @@ Be aware that the BSD license allows for modification and commercial use, howeve
 
 ==== General Concerns
 
-  * Please consider filling in slots that have no suitable assets before making replacements to slots that already have assets.
-  * Although you should keep the above point in mind, we do accept replacements for assets that are already filled in, but only if there's a clear improvement offered.  If you're unsure, run a sample of your work by us before continuing.
+  * Please consider filling in slots that have no suitable resources before making replacements to slots that already have resources.
+  * Although you should keep the above point in mind, we do accept replacements for resources that are already filled in, but only if there's a clear improvement offered.  If you're unsure, run a sample of your work by us before continuing.
   * The goal of the project is NOT to make things look and sound just like Hexen, that would be pointless. Be creative!
   * The game themes are primarily inspired by dark fantasy, black metal culture and Lovecraftian horror.
   * While we appreciate having unique content, the nature of this project means that you may feel free to submit material you create for it to any other project you wish, as well.
@@ -86,7 +79,7 @@ Be aware that the BSD license allows for modification and commercial use, howeve
 
 == Feedback & Community
 
-Join us on DoomWorld (no link yet) and https://discord.gg/M7jhmw9zn4[Discord]!
+Join us on https://www.doomworld.com/forum/topic/147382-l%C3%A4stermaul-the-new-freehexen-discussion/[DoomWorld] and https://discord.gg/M7jhmw9zn4[Discord]!
 
 == Screenshots
 

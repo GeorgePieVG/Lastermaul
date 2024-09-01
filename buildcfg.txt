@@ -154,8 +154,8 @@ GNTMIS1		; Ivan Void (LibreQuake attic)
 SPELL1		; (Blasphemer)
 GLBHIT4		; (Blasphemer)
 VAMP5		; (Blasphemer)
-STRIKE3		SWITCH   ; Jute Gyte
-STRIKE1		SWITCH   ; Jute Gyte
+STRIKE3		DUMMYBEP   ; Jute Gyte
+STRIKE1		DUMMYBEP   ; Jute Gyte
 FIREDHIT	BSHHIT2 ; PLACE HOLDER
 HOLY3		; AntonR
 SPIRT7		; (LibreQuake)
@@ -164,14 +164,14 @@ SPIRTS1		; (LibreQuake)
 WAND4		; AntonR
 LITE2		BLUR6   ; PLACE HOLDER
 GNTPOW		; MoonDeLaAxel (Blasphemer)
-WEPELE2	SWITCH   ; Jute Gyte
+WEPELE2	DUMMYBEP   ; Jute Gyte
 GNTACT1		; Joed (Freedoom attic)
-CONE3		SWITCH   ; Jute Gyte
-SHARDS1B	SWITCH   ; Jute Gyte
+CONE3		DUMMYBEP   ; Jute Gyte
+SHARDS1B	DUMMYBEP   ; Jute Gyte
 MAGE4		; (Freedoom)
 MAGEBALL	SORBLEXP   ; PLACE HOLDER
 PIGRUNT1	; Jute (Blasphemer)
-SQUEAL1	SWITCH   ; Jute Gyte
+SQUEAL1	DUMMYBEP   ; Jute Gyte
 PIGPAIN2	; Jute (Blasphemer)
 BITE4		; Jute (Blasphemer)
 PIGDTH2		; Jute (Blasphemer)
@@ -187,15 +187,15 @@ TAUR2		; (Freedoom)
 TAUR4		; (Freedoom)
 CENTHIT2	PUNCHMIS	; PLACE HOLDER
 CNTDTH1		; AntonR
-CNTSHLD4	SWITCH   ; Jute Gyte
-WTRCRT7	SWITCH   ; Jute Gyte
-SRFC3		SWITCH   ; Jute Gyte
-SERPPN1		SWITCH   ; Jute Gyte
-WTRSWIP	SWITCH   ; Jute Gyte
-WTRHIT		SWITCH   ; Jute Gyte
-SRPDTH1	SWITCH   ; Jute Gyte
-SRFC1		SWITCH   ; Jute Gyte
-GLBHISS1	SWITCH   ; Jute Gyte
+CNTSHLD4	DUMMYBEP   ; Jute Gyte
+WTRCRT7	DUMMYBEP   ; Jute Gyte
+SRFC3		DUMMYBEP   ; Jute Gyte
+SERPPN1		DUMMYBEP   ; Jute Gyte
+WTRSWIP	DUMMYBEP   ; Jute Gyte
+WTRHIT		DUMMYBEP   ; Jute Gyte
+SRPDTH1	DUMMYBEP   ; Jute Gyte
+SRFC1		DUMMYBEP   ; Jute Gyte
+GLBHISS1	DUMMYBEP   ; Jute Gyte
 SBTSIT5		; (Blasphemer)
 MINACT1		MINSIT1 ; PLACEHOLDER
 DEMATK2		; (Freedoom)
@@ -226,22 +226,22 @@ SORBOSS1	; (LibreQuake)
 SORBOSS2	; (LibreQuake)
 SORBOSS3	; (LibreQuake)
 WOOSH3		; AntonR
-BALLS1		SWITCH   ; Jute Gyte
+BALLS1		DUMMYBEP   ; Jute Gyte
 SORDIE2		; (LibreQuake)
 BISHAPP		BLUR6   ; PLACE HOLDER
-CORK		SWITCH   ; Jute Gyte
+CORK		DUMMYBEP   ; Jute Gyte
 BOUNCE2		; (Freedoom)
 SORBLEXP	; (Freedoom)
 DRAGSIT1	; Elon Satoshi (Freedoom attic)
 WING1		PUNCHMIS   ; PLACE HOLDER
 DRAGPN2		; Elon Satoshi (Freedoom attic)
 DRAGDIE2	; Elon Satoshi (Freedoom attic)
-KORSIT		SWITCH   ; Jute Gyte
-KORACT		SWITCH   ; Jute Gyte
-KORPN1		SWITCH   ; Jute Gyte
-KORATK		SWITCH   ; Jute Gyte
-KORCOM		SWITCH   ; Jute Gyte
-KORDTH1	SWITCH   ; Jute Gyte
+KORSIT		DUMMYBEP   ; Jute Gyte
+KORACT		DUMMYBEP   ; Jute Gyte
+KORPN1		DUMMYBEP   ; Jute Gyte
+KORATK		DUMMYBEP   ; Jute Gyte
+KORCOM		DUMMYBEP   ; Jute Gyte
+KORDTH1	DUMMYBEP   ; Jute Gyte
 STEP		; (Freedoom)
 GRTNGS1		; (Freedoom)
 READY1		GRTNGS1   ; PLACE HOLDER
@@ -254,22 +254,22 @@ STRONG1		GRTNGS1   ; PLACE HOLDER
 FACE1		GRTNGS1  ; PLACE HOLDER
 PUP4		; RottKing (Freedoom attic)
 DORSTP3		; AntonR
-MTLSTRT1	SWITCH   ; Jute Gyte
+MTLSTRT1	DUMMYBEP   ; Jute Gyte
 DORSTP1B	; AntonR
 STNMV4		; (Freedoom)
-MTLMV3		SWITCH   ; Jute Gyte
-DRLTCH3A	SWITCH   ; Jute Gyte
+MTLMV3		DUMMYBEP   ; Jute Gyte
+DRLTCH3A	DUMMYBEP   ; Jute Gyte
 LOCKED		; (LibreQuake attic)
-STMDR1		SWITCH   ; Jute Gyte
-DRSTP2		SWITCH   ; Jute Gyte
+STMDR1		DUMMYBEP   ; Jute Gyte
+DRSTP2		DUMMYBEP   ; Jute Gyte
 DORSTP4		; AntonR
-DRSTP7		SWITCH   ; Jute Gyte
-DRCRK5A	SWITCH   ; Jute Gyte
+DRSTP7		DUMMYBEP   ; Jute Gyte
+DRCRK5A	DUMMYBEP   ; Jute Gyte
 	
-LAVA2		SWITCH   ; Jute Gyte
-BROOK1		SWITCH   ; Jute Gyte
-ICEMV2		SWITCH   ; Jute Gyte
-QUAKE2		SWITCH   ; Jute Gyte
+LAVA2		DUMMYBEP   ; Jute Gyte
+BROOK1		DUMMYBEP   ; Jute Gyte
+ICEMV2		DUMMYBEP   ; Jute Gyte
+QUAKE2		DUMMYBEP   ; Jute Gyte
 SAMPLE11	; AntonR
 ART1		; AntonR
 KEYS2A		; AntonR
@@ -284,7 +284,7 @@ PUZSLV		; AntonR (Blasphemer)
 CHAT3		; Jute Gyte (Blasphemer)
 BATS		; Jute (Blasphemer)
 	
-TICTOC	SWITCH   ; Jute Gyte
+TICTOC	DUMMYBEP   ; Jute Gyte
 	
 ETHPORT1	SWTCHV4   ; Jute Gyte
 CHNSWCH8	; AntonR
@@ -298,40 +298,40 @@ BELLRNG		SWTCHV4   ; Jute Gyte
 TREEBRK		; PLACE HOLDER (Freedoom)
 TREEBURN	IMPFIRE2 ; PLACE HOLDER
 ARMOREXP	AXE5  ; PLACE HOLDER
-STRETCH3	SWITCH   ; Jute Gyte
-PUFF1	SWITCH   ; Jute Gyte
-TORCH2	SWITCH   ; Jute Gyte
-GLASS5	SWITCH   ; Jute Gyte
+STRETCH3	DUMMYBEP   ; Jute Gyte
+PUFF1	DUMMYBEP   ; Jute Gyte
+TORCH2	DUMMYBEP   ; Jute Gyte
+GLASS5	DUMMYBEP   ; Jute Gyte
 FLECH4	; (LibreQuake)
 THNDR1	; (LibreQuake)
 TPORT1	; AntonR (Blasphemer)
 POTBRK1	HAMFLY1	; PLACE HOLDER
-BLDDRP1	SWITCH   ; Jute Gyte
+BLDDRP1	DUMMYBEP   ; Jute Gyte
 	
 WIND3	; (Blasphemer)
-SPIKE3	SWITCH   ; Jute Gyte
-SPIKE2	SWITCH   ; Jute Gyte
+SPIKE3	DUMMYBEP   ; Jute Gyte
+SPIKE2	DUMMYBEP   ; Jute Gyte
 ICEDTH1	AXE5   ; PLACE HOLDER
 ICEBRK1A	AXE5   ; PLACE HOLDER
-GLOOP1	SWITCH   ; Jute Gyte
-ACID5	SWITCH   ; Jute Gyte
-MUCK5	SWITCH   ; Jute Gyte
-TICK		SWITCH   ; Jute Gyte
-INSECTS1	SWITCH   ; Jute Gyte
-CRKETS	SWITCH   ; Jute Gyte
-CRKETS1	SWITCH   ; Jute Gyte
-KATYDID	SWITCH   ; Jute Gyte
-FROGS	SWITCH   ; Jute Gyte
-OWL	SWITCH   ; Jute Gyte
-BIRD	SWITCH   ; Jute Gyte
-SHLURP	SWITCH   ; Jute Gyte
-BUBBLE	SWITCH   ; Jute Gyte
+GLOOP1	DUMMYBEP   ; Jute Gyte
+ACID5	DUMMYBEP   ; Jute Gyte
+MUCK5	DUMMYBEP   ; Jute Gyte
+TICK		DUMMYBEP   ; Jute Gyte
+INSECTS1	DUMMYBEP   ; Jute Gyte
+CRKETS	DUMMYBEP   ; Jute Gyte
+CRKETS1	DUMMYBEP   ; Jute Gyte
+KATYDID	DUMMYBEP   ; Jute Gyte
+FROGS	DUMMYBEP   ; Jute Gyte
+OWL	DUMMYBEP   ; Jute Gyte
+BIRD	DUMMYBEP   ; Jute Gyte
+SHLURP	DUMMYBEP   ; Jute Gyte
+BUBBLE	DUMMYBEP   ; Jute Gyte
 DROP2	; AntonR (Blasphemer)
-ROCKS	SWITCH   ; Jute Gyte
-CHAINS	SWITCH   ; Jute Gyte
+ROCKS	DUMMYBEP   ; Jute Gyte
+CHAINS	DUMMYBEP   ; Jute Gyte
 GONG	; (Blasphemer)
-STEEL1	SWITCH   ; Jute Gyte
-STEEL2	SWITCH   ; Jute Gyte
+STEEL1	DUMMYBEP   ; Jute Gyte
+STEEL2	DUMMYBEP   ; Jute Gyte
 
 ; Lastermaul extra sounds
 DSSECRET	; MoonDeLaAxel (Blasphemer)
