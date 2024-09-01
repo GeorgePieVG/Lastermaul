@@ -3,8 +3,8 @@
 
 ; List of levels
 [levels]
-MAP01	DEMOMAP		; Catoptromancy
-MAP02	TESTMAP		; Catoptromancy
+MAP01	TESTMAP		; Catoptromancy
+MAP02	HEX_PH
 MAP03	HEX_PH
 MAP04	HEX_PH
 MAP05	HEX_PH
