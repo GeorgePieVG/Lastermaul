@@ -5,17 +5,17 @@
 SECRETMESSAGE = "A terrible secret has been discovered...";
 
 // Obituaries
-OB_FIREDEMON = "%o was melted by a ravon";
+OB_FIREDEMON = "%o was melted by a dark harpy";
 OB_DEMON1 = "%o was incinerated by a saurian";
 OB_DEMON2 = "%o was nuked by a dark saurian";
-OB_ETTIN = "%o was slaughtered by a sluagh";
-OB_CENTAUR = "%o was cut up by a gigagremlin";
-OB_SLAUGHTAURHIT = "%o was cut up by a gargantua";
-OB_SLAUGHTAUR = "%o was haunted by a gargantua";
+OB_ETTIN = "%o was slaughtered by a skelegionnaire";
+OB_CENTAUR = "%o was cut up by a scavenger";
+OB_SLAUGHTAURHIT = "%o was cut up by a grim wrestler";
+OB_SLAUGHTAUR = "%o was haunted by a grim wrestler";
 OB_BISHOP = "%o was scourged by the grell";
 OB_ICEGUY = "%o was petrified by a gorgon";
-OB_SERPENTHIT = "%o was drowned by a goon";
-OB_SERPENT = "%o was stained by a goon";
+OB_SERPENTHIT = "%o was drowned by a bogger";
+OB_SERPENT = "%o was stained by a bogger";
 OB_WRAITH = "%o was bewitched by a nightshade";
 OB_WRAITHHIT = "%o was scared by a nightshade";
 OB_DRAGON = "%o was exiled to the underworld by the Fallen";
@@ -26,7 +26,7 @@ OB_CBOSS = "%o was baptized by the Worshipper.";
 OB_HERESIARCH = "%o had %p bones rolled by the Bosheit";
 
 // Item tags: Hexen weapons
-TAG_CWEAPMACE = "Mace";
+TAG_CWEAPMACE = "Thorn of Judgment";
 TAG_CWEAPSTAFF = "Bloodleech";
 TAG_CWEAPFLAME = "Hazebone";
 TAG_CWEAPWRAITHVERGE = "Spiritridge";
@@ -140,15 +140,15 @@ TXT_BLOODSCOURGE_PIECE = "Segment of Superscepter";
 
 // Friendly names
 
-FN_FIREDEMON = "Ravon";
+FN_FIREDEMON = "Dark Harpy";
 FN_DEMON1 = "Saurian";
 FN_DEMON2 = "Dark Saurian"
-FN_ETTIN = "Sluagh";
-FN_CENTAUR = "Gigagremlin";
-FN_SLAUGHTAUR = "Gargantua";
+FN_ETTIN = "Skelegionnaire";
+FN_CENTAUR = "Scavenger";
+FN_SLAUGHTAUR = "Grim Wrestler";
 FN_BISHOP = "Grell";
 FN_ICEGUY = "Gorgon";
-FN_SERPENT = "Goon";
+FN_SERPENT = "Bogger";
 FN_WRAITH = "Nightshade";
 FN_DRAGON = "Fallen";
 FN_KORAX = "Hades";

@@ -371,7 +371,7 @@ CHAP_4R	; "Lost In Place" by Lippeth (Plutonia MIDI Pack)
 CHIPPYR	; "Spamhambled In Space" by Mark "TheMisterCat" McGill-Smith (Freedoom attic)
 PERCR	; "Saboteur" by Alfonzo (Realm of Parthoris)
 SECRETR		MUS_TITL
-BONESR	; "The Last Midnight" by Korp (Ichor 3D)
+BONESR		MUS_TITL
 OCTOR		; "The Deepest Secrets" by continuum.mid (Double Impact MIDI Pack)
 RITHMR		; "Ambiguity" by Korp (Double Impact MIDI Pack)
 STALKR		; "The Ritual" by continuum.mid
