@@ -179,7 +179,7 @@ SYAB2D		; (Freedoom)
 STB1D		; apophis (Lotan's Tomb)
 BSHPN1		; (Freedoom)
 POP		; (Freedoom)
-BISHDTH1	; (Freedoom)
+BISHDTH1	; Goji, apophis (Freedoom)
 BSHHIT2		; (Freedoom)
 BLUR6		; AntonR
 TAUR1		; (Freedoom)
