@@ -345,7 +345,7 @@ SBTPAIN1	; (Blasphemer)
 
 ; List of Musics
 [musics]
-WINNOWR	; "Oracle Night" by Alfonzo (Realm of Parthoris)
+WINNOWR	MUS_TITL
 JACHR	; "Mystic Tides" by Alfonzo (Realm of Parthoris)
 SIMONR	; "Plasma" by Ilkallio (Realm of Parthoris)
 WUTZITR	; "The Rivers Run Red" by Josephus "J.Astartes" Astartes (Freedoom attic)
@@ -3219,7 +3219,7 @@ WCFME0		GOD1	14	45
 WCFMF0	GOD1		9	40
 WCFMG0	GOD1		7	40
 WCFMH0	GOD1		11	43
-GOD1		GOD1	6	49
+WMLGA0		GOD1	6	49
 WMLGB0		GOD1	13	49
 WMLGC0		GOD1	15	49
 WMLGD0		GOD1	12	49
@@ -3268,7 +3268,7 @@ ATLPA0		13	42
 ATLPB0			13	42
 ATLPC0			13	42
 ARTIATLP			-3	-3
-SUMNA0			7	24	; Korp (Freedoom attic)
+SUMNA0		GOD1	7	24
 ARTISUMN		GOD1	-7	-8
 PSBGA0	GOD1		7	41
 ARTIPSBG		GOD1	-8	-5
