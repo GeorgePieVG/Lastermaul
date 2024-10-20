@@ -110,47 +110,47 @@ PNAMES   = pnlstrml
 
 ; List of Sounds
 [sounds]
-DEFAULT		ART1	; PLACE HOLDER
-BLANK		PUP4	; PLACE HOLDER
-FGTDDTH		; Ivan Void (LibreQuake attic)
+DEFAULT		; AntonR
+BLANK		; AntonR
+FGTDDTH		; AntonR
 FGTCDTH		; Ivan Void (LibreQuake attic)
 FGTXDTH1	FGTXDTH3	; PLACE HOLDER
 FGTXDTH2	FGTXDTH3	; PLACE HOLDER
 FGTXDTH3	; Ivan Void (LibreQuake attic)
-PLRDTH		; (Freedoom)
+PLRDTH		; AntonR
 PLRCDTH		FALL1 ; PLACE HOLDER
 CLXDTH1	FALL1  ; PLACE HOLDER
 CLXDTH2	FALL1  ; PLACE HOLDER
 CLXDTH3	FALL1  ; PLACE HOLDER
-MGDTH		; RottKing (Blasphemer)
+MGDTH		; AntonR
 MGCDTH		; RottKing (Blasphemer)
 MGXDTH1		; RottKing (Blasphemer)
 MGXDTH2	MGXDTH1	; PLACE HOLDER
 MGXDTH3	MGXDTH1	; PLACE HOLDER
 FGTPAIN		; Ivan Void (LibreQuake attic)
 PLRPAIN3	; (Freedoom)
-MGPAIN		; RottKing (Blasphemer)
+MGPAIN		; AntonR
 FGTGRUNT	; Ivan Void (LibreQuake attic)
-GRUNT1		; (Freedoom)
-MGGRUNT		; RottKing (Blasphemer)
-FEET4		; (Freedoom)
+GRUNT1		; AntonR
+MGGRUNT		; AntonR
+FEET4		; AntonR
 POIS2		; Ivan Void (LibreQuake attic)
-FGTFALL		; Ivan Void (LibreQuake attic)
+FGTFALL		; AntonR
 FALL1		; (Freedoom)
-MGFALL		; RottKing (Blasphemer)
-FALLHIT		; apophis (Lotan's Tomb)
+MGFALL		; AntonR
+FALLHIT		; AntonR
 PLRBURN	PLRPAIN3   ; PLACE HOLDER
-PUNCHMIS	; (Freedoom)
-PUNCH8		; MoonDeLaAxel (Blasphemer)
-MUMPUN5		; (Freedoom)
-AXE5		; (Blasphemer)
+PUNCHMIS	; AntonR
+PUNCH8		; AntonR
+MUMPUN5		; AntonR
+AXE5		; AntonR
 HAMMIS2	PUNCHMIS   ; PLACE HOLDER
 HAMWAL1	BOUNCE2   ; PLACE HOLDER
-HMHIT1A		AXE5   ; PLACE HOLDER
+HMHIT1A		; AntonR
 HAMFLY1		; AntonR (Blasphemer)
-IMPACT3		BSHHIT2 ; PLACE HOLDER
+IMPACT3		; AntonR
 SWORD2		; (LibreQuake)
-GNTMIS1		; Ivan Void (LibreQuake attic)
+GNTMIS1		; AntonR
 SPELL1		; (Blasphemer)
 GLBHIT4		; (Blasphemer)
 VAMP5		; (Blasphemer)
@@ -167,13 +167,13 @@ GNTPOW		; MoonDeLaAxel (Blasphemer)
 WEPELE2	DUMMYBEP   ; Jute Gyte
 GNTACT1		; Joed (Freedoom attic)
 CONE3		DUMMYBEP   ; Jute Gyte
-SHARDS1B	DUMMYBEP   ; Jute Gyte
+SHARDS1B	; AntonR
 MAGE4		; (Freedoom)
 MAGEBALL	SORBLEXP   ; PLACE HOLDER
-PIGRUNT1	; Jute (Blasphemer)
+PIGRUNT1	; AntonR
 SQUEAL1	DUMMYBEP   ; Jute Gyte
 PIGPAIN2	; Jute (Blasphemer)
-BITE4		; Jute (Blasphemer)
+BITE4		; AntonR
 PIGDTH2		; Jute (Blasphemer)
 SYAB2D		; (Freedoom)
 STB1D		; apophis (Lotan's Tomb)
@@ -181,7 +181,7 @@ BSHPN1		; (Freedoom)
 POP		; (Freedoom)
 BISHDTH1	; (Freedoom)
 BSHHIT2		; (Freedoom)
-BLUR6		; MoonDeLaAxel (Blasphemer)
+BLUR6		; AntonR
 TAUR1		; (Freedoom)
 TAUR2		; (Freedoom)
 TAUR4		; (Freedoom)
@@ -196,7 +196,7 @@ WTRHIT		DUMMYBEP   ; Jute Gyte
 SRPDTH1	DUMMYBEP   ; Jute Gyte
 SRFC1		DUMMYBEP   ; Jute Gyte
 GLBHISS1	DUMMYBEP   ; Jute Gyte
-SBTSIT5		; (Blasphemer)
+SBTSIT5		; AntonR
 MINACT1		MINSIT1 ; PLACEHOLDER
 DEMATK2		; (Freedoom)
 SBTDTH3		; (Blasphemer)
@@ -212,9 +212,9 @@ MINPAIN4	; (Freedoom)
 HAMBLO8A	; (Blasphemer)
 HAMFIR1		; (Blasphemer)
 MINDTH4		; (Freedoom)
-CENT2		; MoonDeLaAxel (Blasphemer)
-CENT1		; MoonDeLaAxel (Blasphemer)
-ETHIT1		; MoonDeLaAxel (Blasphemer)
+CENT2		; AntonR
+CENT1		; AntonR
+ETHIT1		; AntonR
 SPAWN3		; (Freedoom)
 FIRED5		; AntonR
 FIRED2		; AntonR
@@ -229,8 +229,8 @@ WOOSH3		; AntonR
 BALLS1		DUMMYBEP   ; Jute Gyte
 SORDIE2		; (LibreQuake)
 BISHAPP		BLUR6   ; PLACE HOLDER
-CORK		DUMMYBEP   ; Jute Gyte
-BOUNCE2		; (Freedoom)
+CORK		; AntonR
+BOUNCE2		; AntonR
 SORBLEXP	; (Freedoom)
 DRAGSIT1	; Elon Satoshi (Freedoom attic)
 WING1		PUNCHMIS   ; PLACE HOLDER
@@ -252,86 +252,86 @@ WRSHIP1		GRTNGS1   ; PLACE HOLDER
 MAYBE1		GRTNGS1   ; PLACE HOLDER
 STRONG1		GRTNGS1   ; PLACE HOLDER
 FACE1		GRTNGS1  ; PLACE HOLDER
-PUP4		; RottKing (Freedoom attic)
+PUP4		; AntonR
 DORSTP3		; AntonR
 MTLSTRT1	DUMMYBEP   ; Jute Gyte
 DORSTP1B	; AntonR
-STNMV4		; (Freedoom)
+STNMV4		; AntonR
 MTLMV3		DUMMYBEP   ; Jute Gyte
-DRLTCH3A	DUMMYBEP   ; Jute Gyte
-LOCKED		; (LibreQuake attic)
+DRLTCH3A	; AntonR
+LOCKED		; AntonR
 STMDR1		DUMMYBEP   ; Jute Gyte
-DRSTP2		DUMMYBEP   ; Jute Gyte
+DRSTP2		; AntonR
 DORSTP4		; AntonR
-DRSTP7		DUMMYBEP   ; Jute Gyte
-DRCRK5A	DUMMYBEP   ; Jute Gyte
+DRSTP7		; AntonR
+DRCRK5A		; AntonR
 	
 LAVA2		DUMMYBEP   ; Jute Gyte
-BROOK1		DUMMYBEP   ; Jute Gyte
-ICEMV2		DUMMYBEP   ; Jute Gyte
+BROOK1		; AntonR
+ICEMV2		; AntonR
 QUAKE2		DUMMYBEP   ; Jute Gyte
 SAMPLE11	; AntonR
 ART1		; AntonR
 KEYS2A		; AntonR
-PICUP5		; MoonDeLaAxel (Blasphemer)
+PICUP5		; AntonR
 PIECE1		; (Blasphemer)
-ARTACT1		; (Blasphemer)
+ARTACT1		; AntonR
 RESPAWN		; (Blasphemer)
 FGTHMM		; Ivan Void (LibreQuake attic)
 CLHMM		; PLACE HOLDER (Freedoom)
 MGHMM		CLHMM   ; PLACE HOLDER
 PUZSLV		; AntonR (Blasphemer)
 CHAT3		; Jute Gyte (Blasphemer)
-BATS		; Jute (Blasphemer)
+BATS		; AntonR
 	
 TICTOC	DUMMYBEP   ; Jute Gyte
 	
 ETHPORT1	SWTCHV4   ; Jute Gyte
 CHNSWCH8	; AntonR
-SWTCH6		; (Freedoom)
+SWTCH6		; AntonR
 PUZSLV1		CHAT3   ; PLACE HOLDER
-SWTCHV4		; Jute Gyte (Blasphemer)
-SWTCHRP1	SWTCHV4   ; Jute Gyte
-BLASTR		SWTCHV4   ; Jute Gyte
+SWTCHV4		; AntonR
+SWTCHRP1	; AntonR
+BLASTR		; AntonR
 FLY3		SWTCHV4   ; Jute Gyte
 BELLRNG		SWTCHV4   ; Jute Gyte
-TREEBRK		; PLACE HOLDER (Freedoom)
+TREEBRK		; AntonR
 TREEBURN	IMPFIRE2 ; PLACE HOLDER
-ARMOREXP	AXE5  ; PLACE HOLDER
+ARMOREXP	; AntonR
 STRETCH3	DUMMYBEP   ; Jute Gyte
 PUFF1	DUMMYBEP   ; Jute Gyte
 TORCH2	DUMMYBEP   ; Jute Gyte
-GLASS5	DUMMYBEP   ; Jute Gyte
-FLECH4	; (LibreQuake)
-THNDR1	; (LibreQuake)
+GLASS5	; AntonR
+FLECH4	; AntonR
+THNDR1	; AntonR
 TPORT1	; AntonR (Blasphemer)
-POTBRK1	HAMFLY1	; PLACE HOLDER
-BLDDRP1	DUMMYBEP   ; Jute Gyte
+POTBRK1		; AntonR
+BLDDRP1		; AntonR
 	
-WIND3	; (Blasphemer)
+WIND3	; AntonR
 SPIKE3	DUMMYBEP   ; Jute Gyte
 SPIKE2	DUMMYBEP   ; Jute Gyte
-ICEDTH1	AXE5   ; PLACE HOLDER
-ICEBRK1A	AXE5   ; PLACE HOLDER
+ICEDTH1		; AntonR
+ICEBRK1A	; AntonR
 GLOOP1	DUMMYBEP   ; Jute Gyte
-ACID5	DUMMYBEP   ; Jute Gyte
+ACID5		; AntonR
 MUCK5	DUMMYBEP   ; Jute Gyte
-TICK		DUMMYBEP   ; Jute Gyte
+TICK		; AntonR
 INSECTS1	DUMMYBEP   ; Jute Gyte
 CRKETS	DUMMYBEP   ; Jute Gyte
 CRKETS1	DUMMYBEP   ; Jute Gyte
-KATYDID	DUMMYBEP   ; Jute Gyte
+KATYDID		; AntonR
 FROGS	DUMMYBEP   ; Jute Gyte
-OWL	DUMMYBEP   ; Jute Gyte
+OWL		; AntonR
 BIRD	DUMMYBEP   ; Jute Gyte
 SHLURP	DUMMYBEP   ; Jute Gyte
 BUBBLE	DUMMYBEP   ; Jute Gyte
 DROP2	; AntonR (Blasphemer)
-ROCKS	DUMMYBEP   ; Jute Gyte
-CHAINS	DUMMYBEP   ; Jute Gyte
+ROCKS		; AntonR
+CHAINS		; AntonR
 GONG	; (Blasphemer)
-STEEL1	DUMMYBEP   ; Jute Gyte
-STEEL2	DUMMYBEP   ; Jute Gyte
+STEEL1		; AntonR
+STEEL2		; AntonR
 
 ; Lastermaul extra sounds
 DSSECRET	; MoonDeLaAxel (Blasphemer)
