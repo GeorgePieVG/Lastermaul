@@ -176,7 +176,7 @@ PIGPAIN2	; Jute (Blasphemer)
 BITE4		; AntonR
 PIGDTH2		; Jute (Blasphemer)
 SYAB2D		; (Freedoom)
-STB1D		; apophis (LibTech1)
+STB1D		; apophis (Lotan's Tomb)
 BSHPN1		; (Freedoom)
 POP		; (Freedoom)
 BISHDTH1	; (Freedoom)
@@ -345,7 +345,7 @@ SBTPAIN1	; (Blasphemer)
 
 ; List of Musics
 [musics]
-WINNOWR	; "Oracle Night" by Alfonzo (Realm of Parthoris)
+WINNOWR	MUS_TITL
 JACHR	; "Mystic Tides" by Alfonzo (Realm of Parthoris)
 SIMONR	; "Plasma" by Ilkallio (Realm of Parthoris)
 WUTZITR	; "The Rivers Run Red" by Josephus "J.Astartes" Astartes (Freedoom attic)
@@ -355,14 +355,14 @@ CHARTR	; "SevenFour" by Ralph "Ralphis" Vickers (FreeDM)
 SWAMPR	; "Hail the Severed Head" by Lippeth (Alien Vendetta MIDI Pack)
 DEEPR	; "Sombre Visions" by Tristan Clark (Rebirth MIDI Pack)
 FUBASR	; "Shadows" by Tristan Clark (Rebirth MIDI Pack)
-GROVER	; "Frigid Weald" by Lippeth (Misc Hexen MIDIs)
+GROVER	MUS_TITL
 FORTR	MUS_TITL
 FOOJAR	MUS_TITL
 SIXATER	MUS_TITL
 WOBABYR	; "Stigmatic Pantheon" by Lippeth (Realms of Cronos)
 CRYPTR	; "Thanatos" by Tristan Clark (Rebirth MIDI Pack)
 FANTAR	MUS_TITL
-BLECHR	; d_romero.mus by hyena (Freedoom attic)
+BLECHR	MUS_TITL
 VOIDR	; "The Occultist" by Tristan Clark (Realm of Parthoris)
 CHAP_1R	; "Always Watching" by Lippeth (Plutonia MIDI Pack)
 CHAP_2R		MUS_TITL
@@ -842,7 +842,7 @@ FAXEN0        -275    33
 FAXEO0        -148    14
 FAXEP0        -66    -39
 FAXEQ0        0    -123
-FAXER0		25	40	; apophis (LibTech1)
+FAXER0		25	40	; apophis (Lotan's Tomb)
 FAXES0		28	51
 FAXET0		30	59
 FAXEU0		32	67
@@ -2761,7 +2761,7 @@ SLDGE0    ; * PLACE HOLDER *
 SLDGF0    ; * PLACE HOLDER *
 SLDGG0    ; * PLACE HOLDER *
 SLDGH0    ; * PLACE HOLDER *
-XPL1A0	25	40	; XPL1* by apophis (LibTech1)
+XPL1A0	25	40	; XPL1* by apophis (Lotan's Tomb)
 XPL1B0	28	51
 XPL1C0	28	51
 XPL1D0	32	67
@@ -2769,14 +2769,14 @@ XPL1E0	31	65
 XPL1F0	31	54
 STWNA0		29	80	; Craneo, raymoohawk
 STWNB0		GOD1	29	80
-GMPDA0		16	48	; Cascade (Freedoom attic)
-GMPDB0		18	56	; Cascade (Freedoom attic)
+GMPDA0		GOD1	48	
+GMPDB0		GOD1	56	
 STTWA0		GOD1	29	80
 RCK1A0		GOD1	7	4
 RCK2A0		GOD1	10	8
 RCK3A0		GOD1	14	15
 RCK4A0		GOD1	24	19
-TRE1A0 		45	112	; Korp (Freedoom attic)
+TRE1A0 		GOD1
 STM1A0                ; Cascade (Freedoom attic)
 STM2A0		GOD1	25	29
 MSH1A0		GOD1	15	22	; ETTiNGRiNDER
@@ -2794,7 +2794,7 @@ SGM3A0		GOD1	14	41
 SLC1A0		19	76 ; Warfare (Blasphemer)
 SLC2A0		11	41 ; Warfare (Blasphemer)
 SLC3A0		GOD1	15	41
-STM3A0                ; Korp (Freedoom attic)
+STM3A0          GOD1
 STM4A0                ; Cascade (Freedoom attic)
 MSS1A0		GOD1	18	21
 MSS2A0		GOD1	15	26
@@ -2820,10 +2820,10 @@ RKBKA0		30	37	; NMN
 RBL1A0		GOD1	21	8
 RBL2A0		GOD1	14	5
 RBL3A0		GOD1	15	8
-TRE4A0                ; Cascade (Freedoom attic)
+TRE4A0          GOD1
 TRE5A0                ; Cascade (Freedoom attic)
-TRE6A0                ; Korp (Freedoom attic)
-TRE7A0                ; Korp (Freedoom attic)
+TRE6A0          GOD1
+TRE7A0          GOD1
 LEF1A0		GOD1	6	3
 LEF1B0		GOD1	8	4
 LEF1C0		GOD1	7	3
@@ -2922,15 +2922,15 @@ CDLRA0		28	60	; Warfare
 CDLRB0		28	60	; Warfare
 CDLRC0		28	60	; Warfare
 CDLRD0		CDLRC0		28	60
-FSKLA0		10	56	; Cascade (Freedoom attic)
-FSKLB0		10	56
-FSKLC0		10	56
-FSKLD0		11	56
-FSKLE0		FSKLA0		10	56
-FSKLF0		FSKLB0		10	56
-FSKLG0		FSKLC0		10	56
-FSKLH0		FSKLD0		11	56
-FSKLI0		FSKLC0		10	56
+FSKLA0		GOD1	10	56
+FSKLB0		GOD1	10	56
+FSKLC0		GOD1	10	56
+FSKLD0		GOD1	11	56
+FSKLE0		GOD1	10	56
+FSKLF0		GOD1	10	56
+FSKLG0		GOD1	10	56
+FSKLH0		GOD1	11	56
+FSKLI0		GOD1	10	56
 BRTRA0		12	75	; NMN
 BRTRB0		12	74
 BRTRC0		12	78
@@ -2944,10 +2944,10 @@ BRTRJ0		BRTRB0		12	74
 BRTRK0		BRTRC0		12	78
 BRTRL0		BRTRD0		12	79
 BRTRM0		BRTRC0		12	78
-GAR1A0                ; Craneo (Blasphemer), Cascade (Freedoom attic)
-GAR2A0                ; NMN, Craneo (Blasphemer attic), Cascade (Freedoom attic)
-GAR3A0                ; Craneo (Blasphemer attic), Cascade (Freedoom attic)
-GAR4A0                ; Stilgar (Blasphemer attic), Cascade (Freedoom attic)
+GAR1A0          GOD1
+GAR2A0          GOD1
+GAR3A0          GOD1
+GAR4A0          GOD1
 GAR5A0		GOD1	25	119
 GAR6A0		GOD1	25	72
 GAR7A0		GOD1	25	72
@@ -3088,7 +3088,7 @@ STT3A0		GOD1	25	118
 STT4A0		GOD1	25	71
 STT5A0		GOD1	25	71
 BNR1A0		GOD1	33	122
-VASEA0		11	50 ; Cascade (Freedoom attic)
+VASEA0		GOD1
 POT1A0		POT2A0		12	35 ; PLACE HOLDER
 POT2A0		12	35 ; ETTiNGRiNDER
 POT3A0		POT2A0		12	35 ; PLACE HOLDER
@@ -3103,7 +3103,7 @@ PBITH0		GOD1	6	2
 PBITI0		GOD1	8	2
 PBITJ0		GOD1	5	2
 BARLA0		12	31 ; Cascade (ShatterEarth)
-SHB1A0		22	45 ; Korp (Freedoom attic)
+SHB1A0		GOD1	22	45
 SHB2A0		41	67 ; Cascade (Freedoom attic)
 BCKTA0		GOD1	12	75
 SHRMA0		GOD1	13	22
@@ -3190,7 +3190,7 @@ FOGMB0		GOD1	69	32
 FOGMC0		GOD1	70	32
 FOGMD0		GOD1	73	28
 FOGME0		GOD1	74	32
-FOGLA0		GOD1	101	39	; apophis (LibTech1)
+FOGLA0		GOD1	101	39	; apophis (Lotan's Tomb)
 FOGLB0		GOD1	116	39
 FOGLC0		GOD1	107	41
 FOGLD0		GOD1	108	43
@@ -3219,7 +3219,7 @@ WCFME0		GOD1	14	45
 WCFMF0	GOD1		9	40
 WCFMG0	GOD1		7	40
 WCFMH0	GOD1		11	43
-GOD1		GOD1	6	49
+WMLGA0		GOD1	6	49
 WMLGB0		GOD1	13	49
 WMLGC0		GOD1	15	49
 WMLGD0		GOD1	12	49
@@ -3268,8 +3268,8 @@ ATLPA0		13	42
 ATLPB0			13	42
 ATLPC0			13	42
 ARTIATLP			-3	-3
-SUMNA0			7	24	; Korp (Freedoom attic)
-ARTISUMN		-7	-8	; Korp (Freedoom attic)
+SUMNA0		GOD1	7	24
+ARTISUMN		GOD1	-7	-8
 PSBGA0	GOD1		7	41
 ARTIPSBG		GOD1	-8	-5
 ARTISPED	-3	-4	; ETTiNGRiNDER
@@ -3439,13 +3439,13 @@ ARM1A0		15	42	; Cascade (ShatterEarth)
 ARM2A0		11	42	; Stilgar (Blasphemer)
 ARM3A0		10	42	; Cascade (ShatterEarth)
 ARM4A0		12	40	; ETTiNGRiNDER
-KEY1A0		7	19	; apophis (LibTech1)
+KEY1A0		7	19	; apophis (Lotan's Tomb)
 KEY2A0		GOD1	3	17
-KEY3A0		6	21	; Stilgar, Georgy Samoilov, Korp (Freedoom attic)
-KEY4A0		8	19	; apophis (LibTech1)
+KEY3A0		GOD1	6	21
+KEY4A0		8	19	; apophis (Lotan's Tomb)
 KEY5A0		3	17	; Stilgar, Georgy Samoilov (Blasphemer)
 KEY6A0		4	21	; Stilgar, Georgy Samoilov (Blasphemer)
-KEY7A0		8	19	; apophis (LibTech1)
+KEY7A0		8	19	; apophis (Lotan's Tomb)
 KEY8A0		GOD1	4	19
 KEY9A0		GOD1	3	22
 KEYAA0		GOD1	5	25
